@@ -1,7 +1,7 @@
 {
-    "name": "Air Siberia",
+    "name": "greenairways",
     "color": "white",
-    "bgcolor": "darkblue",
+    "bgcolor": "green",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -31,14 +31,6 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
-                {
-                    "name": "737 Livery",
-                    "texture": [
-                        "https://geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
-                        "https://media.discordapp.net/attachments/1268096510231314494/1269091894437089431/Air_Siberia_737_Livery.png?ex=677d202e&is=677bceae&hm=5474748a39735ea0894151b1300b00a160d6a1902d70f4914fa8d257947373ba&=&format=webp&quality=lossless&width=700&height=700"
-                    ],
-                    "credits": "QFA124 (CEO)"
-                }
             ],
             "labels": [
                 "Specular shader",
@@ -79,6 +71,14 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
+			  {
+                    "name": "GreenAirways",                                         
+                    "texture": [
+                        "htttps://geo-fs.com/models/aircraft/premium/a380/specular.jpg",
+                        "https://i.ibb.co/BjdGtSn/gar380neo.png"   
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"                     
+                }
             ],
             "labels": [
                 "Specular shader",
@@ -260,13 +260,6 @@
         "2418": {
             "name": "ATR 72-600",
             "liveries": [
-                {
-                    "name": "ATR 72-600 Livery",
-                    "texture": [
-                        "https://media.discordapp.net/attachments/1268096510231314494/1291705034714648676/Air_Siberia_ATR72_livery.png?ex=677cfe8e&is=677bad0e&hm=80d751156f7ad97c948359e8e44e6b52dc254ee1a7a91fa6ed429055fa4c054f&=&format=webp&quality=lossless&width=1186&height=1186"
-                    ],
-                    "credits": "frederikvl"
-                }
             ],
             "labels": [
                 "Texture"
@@ -424,14 +417,6 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
-                {
-                    "name": "A350 Passenger Livery",
-                    "texture": [
-                        "https://geo-fs.com/models/aircraft/premium/a350/specular.jpg",
-                        "https://media.discordapp.net/attachments/1268096510231314494/1307500717518491830/Air_Siberia_A350-900_Livery.png?ex=677d1c2f&is=677bcaaf&hm=32cdd0748db4ef7383beb6331557e15dcae9223461b4984073eb679794659826&=&format=webp&quality=lossless&width=700&height=700"
-                    ],
-                    "credits": "QFA124 (CEO)"
-                }
             ],
             "labels": [
                 "Specular shader",
