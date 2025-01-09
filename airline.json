@@ -554,7 +554,15 @@
         },
         "5086": {
             "name": "Airbus a321-211",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼",
+                    "texture": [
+                        "https://i.ibb.co/RD14mwq/gar321.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
