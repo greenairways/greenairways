@@ -591,7 +591,22 @@
         },
         "5193": {
             "name": "Boeing b747-8I",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 𝚁𝙴𝚃𝚁𝙾 livery",
+                    "texture": [
+                        "https://i.ibb.co/kQx9g5y/gar747retro.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 ＴＲＩＢＵＴＥ livery",
+                    "texture": [
+                        "https://i.ibb.co/kJPVMgr/gar747one.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
