@@ -27,7 +27,16 @@
         },
         "4": {
             "name": "Boeing b737-700",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
+                        "https://i.ibb.co/Fm1d3FP/gxr737ng.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                }
+            ],
             "labels": [
                 "Specular shader",
                 "Texture"
