@@ -356,7 +356,15 @@
         },
         "2871": {
             "name": "Airbus a320neo",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼",
+                    "texture": [
+                        "https://i.ibb.co/Qky0Qjp/gxr320.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
