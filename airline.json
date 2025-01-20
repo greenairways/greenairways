@@ -322,9 +322,16 @@
             "name": "Boeing b737-MAX8",
             "liveries": [
                 {
-                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼",
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 neon livery",
                     "texture": [
                         "https://i.ibb.co/zPmtN4V/gxr737max.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 VISTA livery",
+                    "texture": [
+                        "https://i.ibb.co/SBs9p9r/vista737max.png"
                     ],
                     "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
                 }
