@@ -322,7 +322,7 @@
             "name": "Boeing b737-MAX8",
             "liveries": [
                 {
-                    "name": "Simply Green livery",
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 Simply Green livery",
                     "texture": [
                         "https://i.ibb.co/zPmtN4V/gxr737max.png"
                     ],
@@ -343,23 +343,9 @@
                     "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
                 },
                 {
-                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 BYE BYE UPSIDE DOWN AIRLINES livery",
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 GreenWay livery",
                     "texture": [
-                        "https://i.ibb.co/GMc4FgT/byebyeupsidedown.png"
-                    ],
-                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
-                },
-                {
-                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 BYE BYE GENERIC AIRLINE NAME livery",
-                    "texture": [
-                        "https://i.ibb.co/9hCY0V8/genericairlinename.png"
-                    ],
-                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
-                },
-                {
-                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 BYE BYE COW livery",
-                    "texture": [
-                        "https://i.ibb.co/X5WMwY1/COW.png"
+                        "https://i.ibb.co/zbW5HTY/greenway737max.png"
                     ],
                     "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
                 }
