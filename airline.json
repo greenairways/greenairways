@@ -427,7 +427,36 @@
         },
         "3054": {
             "name": "Boeing b737-800",
-            "liveries": [],
+           "liveries": [
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 Simply Green livery",
+                    "texture": [
+                        "https://i.ibb.co/zPmtN4V/gxr737max.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 VISTA livery",
+                    "texture": [
+                        "https://i.ibb.co/SBs9p9r/vista737max.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 VISTA MODERNA livery",
+                    "texture": [
+                        "https://i.ibb.co/v1SNTcS/gxrvista737max1.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 GreenWay livery",
+                    "texture": [
+                        "https://i.ibb.co/nMZkqVsN/greenway737max.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
