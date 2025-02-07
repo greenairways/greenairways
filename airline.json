@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼",
+    "color": "white",
+    "bgcolor": "green",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -300,6 +300,41 @@
         "2769": {
             "name": "Boeing b737-MAX8",
             "liveries": [
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 HORIZON ONE livery",
+                    "texture": [
+                        "https://i.ibb.co/7tYQgJLT/37temp-1.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 COASTLINE ONE",
+                    "texture": [
+                        "https://i.ibb.co/Dyd1DSr/coastline.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 MOUNTAIN ONE",
+                    "texture": [
+                        "https://i.ibb.co/21t0pWZN/mountain.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 FRANCE ONE",
+                    "texture": [
+                        "https://i.ibb.co/xtbfQ6Gv/37temp-1-Copy.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 ITALY ONE",
+                    "texture": [
+                        "https://i.ibb.co/PGtWSrTx/italia.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                }
             ],
             "labels": [
                 "Texture"
@@ -334,6 +369,41 @@
         "3054": {
             "name": "Boeing b737-800",
             "liveries": [
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 HORIZON ONE livery",
+                    "texture": [
+                        "https://i.ibb.co/7tYQgJLT/37temp-1.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 COASTLINE ONE",
+                    "texture": [
+                        "https://i.ibb.co/Dyd1DSr/coastline.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 MOUNTAIN ONE",
+                    "texture": [
+                        "https://i.ibb.co/21t0pWZN/mountain.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 FRANCE ONE",
+                    "texture": [
+                        "https://i.ibb.co/xtbfQ6Gv/37temp-1-Copy.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                },
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 ITALY ONE",
+                    "texture": [
+                        "https://i.ibb.co/PGtWSrTx/italia.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                }
             ],
             "labels": [
                 "Texture"
