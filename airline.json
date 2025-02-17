@@ -292,6 +292,13 @@
         "2871": {
             "name": "Airbus a320neo",
             "liveries": [
+                {
+                    "name": "CostaAir",
+                    "texture": [
+                        "https://i.ibb.co/g5nypsB/Costa-Air-A320-Neo-Geo-FS-No-More-Boeing-FINAL.png"
+                    ],
+                    "credits": "CostaAir"
+                }
             ],
             "labels": [
                 "Texture"
