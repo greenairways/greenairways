@@ -175,7 +175,15 @@
         },
         "24": {
             "name": "Airbus a350-900",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 GREENFLOW LIVERY",
+                    "texture": [
+                        "https://i.ibb.co/KjLG4g9x/a350-900201.png"
+                    ],
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
+                }
+            ],
             "labels": [
                 "Specular shader",
                 "Texture"
