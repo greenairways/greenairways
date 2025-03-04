@@ -397,7 +397,15 @@
         },
         "2879": {
             "name": "Airbus a319-100",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "GREENBIRD(greenairways regional)",
+                    "texture": [
+                        "https://i.ibb.co/k2cNQgKH/A319-New-UV.png"
+                    ],
+                    "credits": "green121, aka greenairways"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
