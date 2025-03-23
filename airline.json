@@ -400,11 +400,11 @@
             "name": "Airbus a320neo",
             "liveries": [
                 {
-                    "name": "CostaAir",
+                    "name": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 GREENFLOW LIVERY",
                     "texture": [
-                        "https://i.ibb.co/g5nypsB/Costa-Air-A320-Neo-Geo-FS-No-More-Boeing-FINAL.png"
+                        "https://i.ibb.co/ycVtxGhx/texture-2014.png"
                     ],
-                    "credits": "CostaAir"
+                    "credits": "green121, aka 𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼 and SecretSpy"
                 }
             ],
             "labels": [
