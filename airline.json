@@ -284,7 +284,15 @@
         },
         "238": {
             "name": "Boeing b757-200",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "greenairways ELEGANCE",
+                    "texture": [
+                        "https://i.ibb.co/0pfR5z8C/greenairwaysnew757.png"
+                    ],
+                    "credits": "green121"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
