@@ -313,7 +313,15 @@
         },
         "2418": {
             "name": "ATR 72-600",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "greenairways EXPRESS (FLY ELEGANT)",
+                    "texture": [
+                        "https://i.ibb.co/MxMPMTBy/Clic-Air-Black-letters-ATR-72-600.png"
+                    ],
+                    "credits": "green121"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
