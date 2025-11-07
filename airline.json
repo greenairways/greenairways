@@ -829,9 +829,16 @@
             "name": "Embraer ERJ 190",
             "liveries": [
                 {
-                    "name": "greenairways",                                                          
+                    "name": "greenairways (greenworld special livery)",                                                          
                     "texture": [       
                         "https://i.ibb.co/hRvf8SF8/newGXR.png" 
+                    ],
+                    "credits": "thegreen121"                                                          
+                },
+                {
+                    "name": "greenairways standard livery (greenometric",                                                          
+                    "texture": [       
+                        "https://i.ibb.co/Wjt96t0/paintkit1080.png" 
                     ],
                     "credits": "thegreen121"                                                          
                 }
