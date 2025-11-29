@@ -421,6 +421,13 @@
         "4631": {
             "name": "Airbus a330-900neo",
             "liveries": [
+                {
+                    "name": "greenairways standard livery (greenometric)",                                                          
+                    "texture": [       
+                        "https://i.ibb.co/ZRrDPWQJ/a330neo.png" 
+                    ],
+                    "credits": "thegreen121"                                                          
+                }
             ],
             "labels": [
                 "Texture"
