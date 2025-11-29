@@ -41,6 +41,22 @@
         "6": {
             "name": "de Havilland Canada DHC6 Twin Otter",
             "liveries": [
+                {
+                    "name": "greenairways standard livery (greenometric)",                                                          
+                    "Texture": [       
+                        "https://i.ibb.co/M55897hz/texture.jpg"
+                    ],
+                    "Texture Left": [       
+                        "https://i.ibb.co/Q3JpKC5F/left.jpg" 
+                    ],
+                    "Texture Right": [       
+                        "https://i.ibb.co/wF2LsZyj/right.png" 
+                    ],
+                    "Texture Bottom": [       
+                        "https://i.ibb.co/bMfvqG26/bottom.jpg" 
+                    ],
+                    "credits": "thegreen121"                                                          
+                }
             ],
             "labels": [
                 "Texture",
