@@ -853,7 +853,7 @@
                     "credits": "thegreen121"                                                          
                 },
                 {
-                    "name": "greenairways standard livery (greenometric",                                                          
+                    "name": "greenairways standard livery (greenometric)",                                                          
                     "texture": [       
                         "https://i.ibb.co/Wjt96t0/paintkit1080.png" 
                     ],
@@ -896,6 +896,55 @@
                 "Main texture",
                 "Rudder texture",
                 "Prop texture"
+            ]
+        },
+        "3036": {
+            "name":"Embraer ERJ 195-E2",
+            "liveries": [
+                {
+                    "name": "greenairways standard livery (greenometric)",                                                          
+                    "texture": [       
+                        "https://i.ibb.co/Xf00f37k/E195-E2-FUSELAGE1-Copy-Copy.png",
+                        "https://i.ibb.co/M57sQXxq/E195-E2-FUSELAGE1.png",
+                        "https://i.ibb.co/C33874Rk/gxrengine.png",
+                        "https://i.ibb.co/C33874Rk/gxrengine.png",
+                        "https://i.ibb.co/dJx4nB42/E195-E2-TAIL1-1.png",
+                        "https://i.ibb.co/dJx4nB42/E195-E2-TAIL1-1.png"
+                    ],
+                    "credits": "thegreen121"                                                          
+                },
+                {
+                    "name": "greenairways (greenworld special livery)",                                                          
+                    "texture": [       
+                        "https://i.ibb.co/fV7LmRh1/E195-E2-FUSELAGE1-Copy-Copy-Copy.png",
+                        "https://i.ibb.co/SXdJCGhm/E195-E2-FUSELAGE1.png",
+                        "https://i.ibb.co/C33874Rk/gxrengine.png",
+                        "https://i.ibb.co/C33874Rk/gxrengine.png",
+                        "https://i.ibb.co/dJx4nB42/E195-E2-TAIL1-1.png",
+                        "https://i.ibb.co/dJx4nB42/E195-E2-TAIL1-1.png"
+                    ],
+                    "credits": "thegreen121"                                                          
+                },
+                {
+                    "name": "greenairways (more GXR special livery)",                                                          
+                    "texture": [       
+                        "https://i.ibb.co/spZ1cDnS/E195-E2-FUSELAGE1-Copy.png",
+                        "https://i.ibb.co/M57sQXxq/E195-E2-FUSELAGE1.png",
+                        "https://i.ibb.co/C33874Rk/gxrengine.png",
+                        "https://i.ibb.co/C33874Rk/gxrengine.png",
+                        "https://i.ibb.co/dJx4nB42/E195-E2-TAIL1-1.png",
+                        "https://i.ibb.co/dJx4nB42/E195-E2-TAIL1-1.png"
+                    ],
+                    "credits": "thegreen121"                                                          
+                }
+            ],
+            "labels": [
+                "Texture",
+                "Door texture",
+                "Left engine texture",
+                "Right engine texture",
+                "Rudder texture",
+                "Tail texture"
             ]
         },
         "5551": {
